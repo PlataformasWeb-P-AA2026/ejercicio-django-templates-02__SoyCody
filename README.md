@@ -197,3 +197,7 @@ Ingrese con el usuario y contraseña definidos en las variables de entorno.
 ---
 
 Proyecto académico – Despliegue de Django en la nube - René Elizalde
+
+
+MindTech
+<img width="1204" height="1600" alt="WhatsApp Image 2026-07-16 at 11 43 59 AM" src="https://github.com/user-attachments/assets/dd0bb588-d3f3-487c-a1c0-33863716cabd" />
