@@ -33,6 +33,7 @@
             <span>{{t.telefono}} - <span>{{t.tipo}}</span> - <a href="{% url 'editar_numero_telefonico' t.id %}" title="editar"><i class="fa fa-edit"></i></a> </span>
           </li>
         {% endfor %}
+        Valor total de Telefonos: {{ e.obtener_valorTelefonos }}
       </ul>
       <div class="main-blue-button">
         <a href="{% url 'crear_numero_telefonico_estudiante' e.id%}">+Teléfono</a>
